@@ -10,6 +10,7 @@ an ai device that runs on a raspberry pi 5 and uses allenai/molmo-2-8b model via
 
 ## app image
 ![image](image.png)
+i am on windows so the battery percent doesnt work and i also made it work for windows less compatibility though
 
 ## what is this
 im building a alexa like device that uses my phones internet via bluetooth, right now it connects to allenai/molmo-2-8b via openrouter but in the future i want to run the models fully locally on the pi
