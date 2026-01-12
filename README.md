@@ -9,7 +9,7 @@ an ai device that runs on a raspberry pi 5 and uses allenai/molmo-2-8b model via
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 ## app image
-<img src="image.png" width="750">
+<img src="https://raw.githubusercontent.com/bobertsexy/oraclepi/refs/heads/main/image.png" width="750">
 
 i am on windows so the battery percent doesnt work and i also made it work for windows less compatibility though
 
@@ -29,4 +29,5 @@ see [notes](notes.md)
 
 ## license
 Apache 2.0
+
 
