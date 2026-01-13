@@ -32,6 +32,13 @@ the 3d print of this is the bluetooth speaker holder, step file is [here](holder
 
 <img src="print.png" height="300" width="300">
 
+
+##
+wiring diagram 
+
+
+![image](wiringdiagram.png)
+
 ## license
 Apache 2.0
 
