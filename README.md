@@ -28,7 +28,9 @@ refer to [the parts list](parts_list.md)
 see [notes](notes.md)
 
 ##
-the 3d print of this is the bluetooth speaker holder, [right here](holder.stl) I made this for the speaker to hold it on the back, already printed, render is here. ![image](print.png)
+the 3d print of this is the bluetooth speaker holder, step file is [here](holder.step), stl is [right here](holder.stl) i made this for the speaker to hold it on the back, already printed, render is here. 
+
+<img src="print.png" height="300" width="300">
 
 ## license
 Apache 2.0
