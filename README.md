@@ -4,7 +4,7 @@
 ![Built With](https://img.shields.io/badge/Built%20With-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 # Oracle Pi
 
-an ai device that runs on a raspberry pi 5 and uses allenai/molmo-2-8b model via openrouter
+an ai device that runs on a raspberry pi 5 and uses allenai/molmo-2-8b model via openrouter, **i am in the process of turning this into local ai right now as you are viewing this**, i cannot emphasize this enough.
 
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
@@ -34,6 +34,7 @@ the 3d print of this is the bluetooth speaker holder, step file is [here](holder
 
 ## license
 Apache 2.0
+
 
 
 
